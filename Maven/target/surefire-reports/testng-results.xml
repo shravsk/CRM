@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[launching the browser......]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Home Page......]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Pim Page...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to AddEmp Page...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Save Page...]]>
+    </line>
+    <line>
+      <![CDATA[verifying firstname...]]>
+    </line>
+    <line>
+      <![CDATA[verifying lastname...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Admin Page...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to UserManagement Page...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to Add Page...]]>
+    </line>
+    <line>
+      <![CDATA[navigate to SaveAdmin page...]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="12613" started-at="2018-04-13T04:11:39Z" finished-at="2018-04-13T04:11:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="12613" started-at="2018-04-13T04:11:39Z" finished-at="2018-04-13T04:11:52Z">
+      <class name="OrangeCrmTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configBS" is-config="true" duration-ms="6" started-at="2018-04-13T09:41:39Z" finished-at="2018-04-13T09:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configBC" is-config="true" duration-ms="5112" started-at="2018-04-13T09:41:39Z" finished-at="2018-04-13T09:41:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[launching the browser......]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configBM" is-config="true" duration-ms="2099" started-at="2018-04-13T09:41:45Z" finished-at="2018-04-13T09:41:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[navigate to Home Page......]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="orangecrmTest()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="orangecrmTest" duration-ms="5396" started-at="2018-04-13T09:41:47Z" finished-at="2018-04-13T09:41:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[navigate to Pim Page...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to AddEmp Page...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to Save Page...]]>
+            </line>
+            <line>
+              <![CDATA[verifying firstname...]]>
+            </line>
+            <line>
+              <![CDATA[verifying lastname...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to Admin Page...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to UserManagement Page...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to Add Page...]]>
+            </line>
+            <line>
+              <![CDATA[navigate to SaveAdmin page...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- orangecrmTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configAM" is-config="true" duration-ms="1" started-at="2018-04-13T09:41:52Z" finished-at="2018-04-13T09:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configAC" is-config="true" duration-ms="0" started-at="2018-04-13T09:41:52Z" finished-at="2018-04-13T09:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:OrangeCrmTest@13c78c0b]" name="configAS" is-config="true" duration-ms="1" started-at="2018-04-13T09:41:52Z" finished-at="2018-04-13T09:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- OrangeCrmTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

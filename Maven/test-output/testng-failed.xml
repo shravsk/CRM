@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="OrangeCrmTest">
+        <methods>
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="configAC"/>
+          <include name="configAS"/>
+          <include name="orangecrmTest"/>
+        </methods>
+      </class> <!-- OrangeCrmTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
